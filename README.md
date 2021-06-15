@@ -1,5 +1,9 @@
 # Adonis API application
-## Install (setup)
+## Setup of new project
+```bash
+adonis new <project name> --api-only
+```
+## Install
 ```bash
 npm install
 ```
