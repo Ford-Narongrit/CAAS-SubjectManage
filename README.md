@@ -4,6 +4,10 @@
 adonis new <project name> --api-only
 ```
 ## Install
+get adonis command
+```bash
+npm i -g @adonisjs/cli
+```
 ```bash
 npm install
 ```
