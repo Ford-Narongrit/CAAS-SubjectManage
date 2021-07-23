@@ -79,7 +79,6 @@ const aceProviders = [
 ]
 ```
 
-# RabbitMQ
 
 # อ้างอิง
 * AdonisJS https://legacy.adonisjs.com/
